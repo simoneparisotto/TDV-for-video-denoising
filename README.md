@@ -8,7 +8,8 @@
 
 **Date: 24/06/2019**
 
-This is a companion software for the [submission](https://arxiv.org/pdf/1812.05063.pdf):
+This is a companion software for the paper [Total Directional Variation for Video Denoising](https://link.springer.com/chapter/10.1007%2F978-3-030-22368-7_41).
+Please cite as:
 
 ```
 @article{ParSch19,

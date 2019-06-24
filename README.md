@@ -12,7 +12,8 @@ This is a companion software for the [paper](https://link.springer.com/chapter/1
 ```
 S. Parisotto and C.-B. Schönlieb
 "Total Directional Variation for Video Denoising"
-Scale Space and Variational Methods in Computer Vision, 2019, Springer, DOI: 10.1007/978-3-030-22368-7_41
+Scale Space and Variational Methods in Computer Vision, 2019, Springer, 
+DOI: 10.1007/978-3-030-22368-7_41
 ```
 Please use the following entry to cite this code:
 

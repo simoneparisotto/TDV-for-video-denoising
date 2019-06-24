@@ -20,7 +20,6 @@ Please cite as:
  year          = {2019},
  publisher     = {Springer International Publishing},
  doi           = {10.1007/978-3-030-22368-7_41}
-
 }
 
 ```
